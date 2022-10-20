@@ -1,0 +1,9 @@
+#kapcsolat{
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    margin-top: 5%;
+    text-align: center;
+    border: 3px ridge rgb(90,60,60);
+    background-color: white;
+}

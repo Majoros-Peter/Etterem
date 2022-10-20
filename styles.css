@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(230,220,220);
+}
+
+nav{
+    background-color: rgb(215,200,200);
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 95%;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    transition: 0.25s;
+    margin: 0 50px;
+}
+
+nav a:hover{
+  
+    color: red;
+   
+    
+}
+
+.kategoria > div{
+    text-align: center;
+    font-size: 35px;
+}
